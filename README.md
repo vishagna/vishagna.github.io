@@ -21,6 +21,9 @@
                 <li style="background-color: #0077b6; color: white; padding: 10px; margin: 5px 0; border-radius: 3px;">SQL Server</li>
                 <li style="background-color: #0077b6; color: white; padding: 10px; margin: 5px 0; border-radius: 3px;">SQLite</li>
                 <li style="background-color: #0077b6; color: white; padding: 10px; margin: 5px 0; border-radius: 3px;">Room Database</li>
+		<li style="background-color: #0077b6; color: white; padding: 10px; margin: 5px 0; border-radius: 3px;">#00ffcc</li>
+                <li style="background-color: #0077b6; color: white; padding: 10px; margin: 5px 0; border-radius: 3px;">React Native</li>
+
             </ul>
         </section>
 
