@@ -1540,3 +1540,33 @@ a.btn-link.text-light:after {
   background-size: cover;
   transition: transform .3s ease-out;
 }
+
+.image-holder {
+  position: relative;
+}
+
+.play-button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-decoration: none;
+}
+
+.circle {
+  width: 60px;
+  height: 60px;
+  background: rgba(0, 0, 0, 0.6);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.triangle {
+  width: 0;
+  height: 0;
+  border-left: 15px solid white;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+}
